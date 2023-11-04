@@ -1,0 +1,22 @@
+body{
+    background-image: url(fore.jpg);
+    background-repeat: no-repeat;
+    
+}
+.bird{
+   
+    position: absolute;
+    top: 200px;
+   
+    
+    
+}
+.plane{
+   
+    position: absolute;
+    right: 0px; 
+    top: 200px;
+    
+}
+
+
